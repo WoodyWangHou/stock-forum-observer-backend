@@ -1,0 +1,5 @@
+REDDIT_OAUTH2_ID="X6EDNHuknzA9Ng"
+REDDIT_OAUTH2_SECRET="IcHbTSdlOtOHRtc7z-2x8uISWulTpA"
+REDDIT_OAUTH2_NAME="stock-forum-observer-backend"
+REDDIT_OAUTH2_REDDIRECT_URL="https://github.com/WoodyWangHou/stock-forum-observer-backend"
+REDDIT_DEVELOPER_ACCOUNT_NAME="Select_Historian_822"
